@@ -1,0 +1,30 @@
+SQL> select * from orders;
+
+        ID TEXT                 DATE_VALU                                       
+---------- -------------------- ---------                                       
+         1 HI                   22-OCT-22                                       
+         2 HELLO                13-OCT-22                                       
+         3 WORLD                11-OCT-22                                       
+         4 KATE                 10-NOV-22                                       
+         6 TEXT                 22-OCT-22                                       
+         7 FKEF                 22-OCT-22                                       
+         8 KGKDS                22-OCT-22                                       
+         9 TEDVSF               22-OCT-22                                       
+        10 REFF                 22-OCT-22                                       
+        11 HJKKL                21-OCT-22                                       
+        12 HJKL                 22-OCT-22                                       
+
+        ID TEXT                 DATE_VALU                                       
+---------- -------------------- ---------                                       
+        13 JSDLDL               23-OCT-22                                       
+        14 OEDK                 24-OCT-22                                       
+        15 KLAKS                25-OCT-22                                       
+        16 WIEFOK               26-OCT-22                                       
+        17 POKEKW               27-OCT-22                                       
+        18 IJGR                 28-OCT-22                                       
+        19 ACJO                 29-OCT-22                                       
+        20 TGARJ                29-OCT-22                                       
+
+19 rows selected.
+
+SQL> spool off;
